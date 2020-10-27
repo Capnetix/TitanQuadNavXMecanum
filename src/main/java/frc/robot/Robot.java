@@ -28,7 +28,7 @@ public class Robot extends TimedRobot {
     TitanQuad rearRight = new TitanQuad(42, 15600, 3);
 
     
-
+    System.out.println("Hello from kurt");
     // Invert the left side motors.
     // You may need to change or remove this to match your robot.
     //frontLeft.setInverted(true);
