@@ -29,6 +29,7 @@ public class Robot extends TimedRobot {
 
     
     System.out.println("Hello from kurt");
+    System.out.println("Hello from Jeremy");
     // Invert the left side motors.
     // You may need to change or remove this to match your robot.
     //frontLeft.setInverted(true);
